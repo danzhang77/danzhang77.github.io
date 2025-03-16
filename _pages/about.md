@@ -12,7 +12,7 @@ I am a PhD candidate in the [Department of Computer Science at Stony Brook Unive
 I earned my B.S. in computer science from [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/). Then I received my M.S. in computer science from [SUNY Korea](https://www.sunykorea.ac.kr/en/). Please refer to my [CV page](https://academicpages.github.io/cv) for detailed information.
 
 ## Skills
-======
+
 Domains: Full Stack Software Development, Mobile Development, Machine Learning, Deep Learning, Large Language Model, Visualization
 Programming Languages: Python, Java, Javascript, C#, C 
 Tools: Visual Studio Code, Android Studio, Unity, Pycharm, Git, R Studio, Matlab
@@ -20,7 +20,7 @@ Tools: Visual Studio Code, Android Studio, Unity, Pycharm, Git, R Studio, Matlab
 
 
 ## Publications
-======
+
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="images/flexible0.png" width="150" height="100" style="margin-right: 15px;">
   <div>

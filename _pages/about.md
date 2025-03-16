@@ -22,7 +22,7 @@ Tools: Visual Studio Code, Android Studio, Unity, Pycharm, Git, R Studio, Matlab
 ## Publications
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="images/flexible0.png" width="150" height="100" style="margin-right: 15px;">
+  <img src="images/flexible.png" width="150" height="100" style="margin-right: 15px;">
   <div>
     <b>LLM Powered Text Entry Decoding and Flexible Typing on Smartphones.</b><br>
     Yan Ma, <b>Dan Zhang</b>, IV Ramakrishnan, and Xiaojun Bi<br>

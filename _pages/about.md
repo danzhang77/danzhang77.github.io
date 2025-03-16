@@ -11,7 +11,7 @@ I am a PhD candidate in the [Department of Computer Science at Stony Brook Unive
 
 I earned my B.S. in computer science from [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/). Then I received my M.S. in computer science from [SUNY Korea](https://www.sunykorea.ac.kr/en/). Please refer to my [CV page](https://academicpages.github.io/cv) for detailed information.
 
-**Skills
+## Skills
 ======
 Domains: Full Stack Software Development, Mobile Development, Machine Learning, Deep Learning, Large Language Model, Visualization
 Programming Languages: Python, Java, Javascript, C#, C 
@@ -19,10 +19,10 @@ Tools: Visual Studio Code, Android Studio, Unity, Pycharm, Git, R Studio, Matlab
 
 
 
-**Publications
+## Publications
 ======
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="images/flexible.png" width="150" height="100" style="margin-right: 15px;">
+  <img src="images/flexible0.png" width="150" height="100" style="margin-right: 15px;">
   <div>
     <b>LLM Powered Text Entry Decoding and Flexible Typing on Smartphones.</b><br>
     Yan Ma, <b>Dan Zhang</b>, IV Ramakrishnan, and Xiaojun Bi<br>
@@ -36,5 +36,14 @@ Tools: Visual Studio Code, Android Studio, Unity, Pycharm, Git, R Studio, Matlab
     <b>Accessible Gesture Typing on Smartphones for People with Low Vision.</b><br>
     <b>Dan Zhang</b>, Zhi Li, Vikas Ashok, William H. Seiple, IV Ramakrishnan, and Xiaojun Bi<br>
     <a href="https://dl.acm.org/doi/10.1145/3654777.3676447">[TBD]</a> @ <i>ACM UIST 2024</i>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="images/airquality.png" width="150" height="100" style="margin-right: 15px;">
+  <div>
+    <b>Real time localized air quality monitoring and prediction through mobile and fixed IoT sensing network.</b><br>
+    <b>Dan Zhang</b>, and Simon S. Woo<br>
+    <a href="https://ieeexplore.ieee.org/iel7/6287639/8948470/09090830.pdf">[TBD]</a> @ <i>IEEE Access, 2020</i>
   </div>
 </div>

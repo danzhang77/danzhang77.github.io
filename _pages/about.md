@@ -13,15 +13,27 @@ I earned my B.S. in computer science from [University of Electronic Science and 
 
 ## Skills
 
-| Domains                     | Programming Languages | Tools                                 |
-|-----------------------------|-----------------------|---------------------------------------|
-| Full Stack Software Development | Python                | Visual Studio Code                    |
-| Mobile Development          | Java                  | Android Studio                        |
-| Machine Learning            | Javascript            | Unity                                 |
-| Deep Learning               | C#                    | Pycharm                               |
-| Large Language Model        | C                     | Git                                   |
-| Visualization               |                       | R Studio                              |
-|                             |                       | Matlab                                |
+* **Domains:**
+    Full Stack Software Development
+    Mobile Development
+    Machine Learning
+    Deep Learning
+    Large Language Model
+    Visualization
+* **Programming Languages:**
+    Python
+    Java
+    Javascript
+    C#
+    C
+* **Tools:**
+    Visual Studio Code
+    Android Studio
+    Unity
+    Pycharm
+    Git
+    R Studio
+    Matlab
 
 
 

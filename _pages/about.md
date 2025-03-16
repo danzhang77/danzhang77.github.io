@@ -34,10 +34,22 @@ I earned my B.S. in computer science from [University of Electronic Science and 
     Git,
     R Studio,
     Matlab.
-
+* **Frameworks:**
+    PyTorch,
+    Keras,
+    Hugging Face
 
 
 ## Publications
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="images/teaser-touch.png" width="150" height="100" style="margin-right: 15px;">
+  <div>
+    <b>Intelligent Braille Keyboard on Smartphones.</b><br>
+    <b>Dan Zhang</b>, Yan Ma, Glenn Dausch, William H Seiple, Xianfeng Gu, IV Ramakrishnan, and Xiaojun Bi<br>
+    <a href="TBD">[TBD]</a> @ <i>In Submission</i>
+  </div>
+</div>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="images/flexible.png" width="150" height="100" style="margin-right: 15px;">

@@ -66,3 +66,12 @@ Tools: Visual Studio Code, Android Studio, Unity, Pycharm, Git, R Studio, Matlab
   </div>
 </div>
 
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="images/streamvis.png" width="150" height="100" style="margin-right: 15px;">
+  <div>
+    <b>StreamVisND: Visualizing relationships in streaming multivariate data.</b><br>
+    Shenghui Cheng, Yue Wang, <b>Dan Zhang</b>, Zhifang Jiang, and Klaus Mueller<br>
+    <a href="https://www3.cs.stonybrook.edu/~mueller/papers/StreamVisND.pdf">[Paper]</a> @ <i>2015 IEEE Conference on Visual Analytics Science and Technology (VAST)</i>
+  </div>
+</div>

@@ -35,7 +35,7 @@ Tools: Visual Studio Code, Android Studio, Unity, Pycharm, Git, R Studio, Matlab
   <div>
     <b>Accessible Gesture Typing on Smartphones for People with Low Vision.</b><br>
     <b>Dan Zhang</b>, Zhi Li, Vikas Ashok, William H. Seiple, IV Ramakrishnan, and Xiaojun Bi<br>
-    <a href="https://dl.acm.org/doi/10.1145/3654777.3676447">[TBD]</a> @ <i>ACM UIST 2024</i>
+    <a href="https://dl.acm.org/doi/10.1145/3654777.3676447">[Paper]</a> @ <i>ACM UIST 2024</i>
   </div>
 </div>
 
@@ -44,6 +44,25 @@ Tools: Visual Studio Code, Android Studio, Unity, Pycharm, Git, R Studio, Matlab
   <div>
     <b>Real time localized air quality monitoring and prediction through mobile and fixed IoT sensing network.</b><br>
     <b>Dan Zhang</b>, and Simon S. Woo<br>
-    <a href="https://ieeexplore.ieee.org/iel7/6287639/8948470/09090830.pdf">[TBD]</a> @ <i>IEEE Access, 2020</i>
+    <a href="https://ieeexplore.ieee.org/iel7/6287639/8948470/09090830.pdf">[Paper]</a> @ <i>IEEE Access, 2020</i>
   </div>
 </div>
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="images/air-poster.png" width="150" height="100" style="margin-right: 15px;">
+  <div>
+    <b>Predicting air quality using moving sensors (poster).</b><br>
+    <b>Dan Zhang</b>, and Simon S. Woo<br>
+    <a href="https://dl.acm.org/doi/abs/10.1145/3307334.3328647">[Paper]</a> @ <i>Proceedings of the 17th Annual International Conference on Mobile Systems, Applications, and Services, 2019</i>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="images/glass.png" width="150" height="100" style="margin-right: 15px;">
+  <div>
+    <b>Google Glass for personalized augmentations of data visualizations.</b><br>
+    <b>Dan Zhang</b>, Darius Coelho, and Klaus Mueller<br>
+    <a href="https://www3.cs.stonybrook.edu/~mueller/papers/Google%20Glass%20VIS%202016.pdf">[Paper]</a> @ <i>IEEE Visualization (Posters), 2016</i>
+  </div>
+</div>
+

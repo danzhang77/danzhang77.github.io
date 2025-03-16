@@ -72,7 +72,7 @@ I earned my B.S. in computer science from [University of Electronic Science and 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="images/airquality.png" width="150" height="100" style="margin-right: 15px;">
   <div>
-    <b>Real time localized air quality monitoring and prediction through mobile and fixed IoT sensing network.</b><br>
+    <b>Real Time Localized Air Quality Monitoring and Prediction Through Mobile and Fixed IoT Sensing Network.</b><br>
     <b>Dan Zhang</b>, and Simon S. Woo<br>
     <a href="https://ieeexplore.ieee.org/iel7/6287639/8948470/09090830.pdf">[Paper]</a> @ <i>IEEE Access, 2020</i>
   </div>
@@ -81,7 +81,7 @@ I earned my B.S. in computer science from [University of Electronic Science and 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="images/air-poster.png" width="150" height="100" style="margin-right: 15px;">
   <div>
-    <b>Predicting air quality using moving sensors (poster).</b><br>
+    <b>Predicting Air Quality Using Moving Sensors (poster).</b><br>
     <b>Dan Zhang</b>, and Simon S. Woo<br>
     <a href="https://dl.acm.org/doi/abs/10.1145/3307334.3328647">[Paper]</a> @ <i>Proceedings of the 17th Annual International Conference on Mobile Systems, Applications, and Services, 2019</i>
   </div>
@@ -90,7 +90,7 @@ I earned my B.S. in computer science from [University of Electronic Science and 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="images/glass.png" width="150" height="100" style="margin-right: 15px;">
   <div>
-    <b>Google Glass for personalized augmentations of data visualizations.</b><br>
+    <b>Google Glass for Personalized Augmentations of Data Visualizations.</b><br>
     <b>Dan Zhang</b>, Darius Coelho, and Klaus Mueller<br>
     <a href="https://www3.cs.stonybrook.edu/~mueller/papers/Google%20Glass%20VIS%202016.pdf">[Paper]</a> @ <i>IEEE Visualization (Posters), 2016</i>
   </div>
@@ -100,7 +100,7 @@ I earned my B.S. in computer science from [University of Electronic Science and 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="images/streamvis.png" width="150" height="100" style="margin-right: 15px;">
   <div>
-    <b>StreamVisND: Visualizing relationships in streaming multivariate data.</b><br>
+    <b>StreamVisND: Visualizing Relationships in Streaming Multivariate Data.</b><br>
     Shenghui Cheng, Yue Wang, <b>Dan Zhang</b>, Zhifang Jiang, and Klaus Mueller<br>
     <a href="https://www3.cs.stonybrook.edu/~mueller/papers/StreamVisND.pdf">[Paper]</a> @ <i>2015 IEEE Conference on Visual Analytics Science and Technology (VAST)</i>
   </div>

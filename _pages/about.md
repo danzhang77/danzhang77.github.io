@@ -18,7 +18,16 @@ Publications
   <img src="images/flexible.png" width="150" height="100" style="margin-right: 15px;">
   <div>
     <b>LLM Powered Text Entry Decoding and Flexible Typing on Smartphones.</b><br>
-    <b>Yan Ma, Dan Zhang</b>, IV Ramakrishnan, and Xiaojun Bi<br>
+    Yan Ma, <b>Dan Zhang</b>, IV Ramakrishnan, and Xiaojun Bi<br>
+    <a href="TBD">[TBD]</a> @ <i>ACM CHI 2025</i>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="images/AccessibleGestureTyping.png" width="150" height="100" style="margin-right: 15px;">
+  <div>
+    <b>Accessible Gesture Typing on Smartphones for People with Low Vision.</b><br>
+    <b>Dan Zhang</b>, Zhi Li, Vikas Ashok, William H. Seiple, IV Ramakrishnan, and Xiaojun Bi<br>
     <a href="TBD">[TBD]</a> @ <i>ACM CHI 2025</i>
   </div>
 </div>

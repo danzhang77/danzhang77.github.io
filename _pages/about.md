@@ -28,6 +28,6 @@ Publications
   <div>
     <b>Accessible Gesture Typing on Smartphones for People with Low Vision.</b><br>
     <b>Dan Zhang</b>, Zhi Li, Vikas Ashok, William H. Seiple, IV Ramakrishnan, and Xiaojun Bi<br>
-    <a href="TBD">[TBD]</a> @ <i>ACM CHI 2025</i>
+    <a href="https://dl.acm.org/doi/10.1145/3654777.3676447">[TBD]</a> @ <i>ACM UIST 2024</i>
   </div>
 </div>

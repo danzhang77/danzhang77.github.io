@@ -25,8 +25,8 @@ author:
   avatar           : "profile.png"
   name             : "Dan Zhang"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "NY"
+  bio              : "PhD candidate@SBU"
+  location         : "NY, USA"
   employer         : "Stony Brook University"
   uri              : # URL
   email            : "zhang64@cs.stonybrook.edu" 
@@ -45,7 +45,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "danzhang77"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 

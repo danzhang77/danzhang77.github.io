@@ -9,7 +9,7 @@ redirect_from:
 
 I am a PhD candidate in the [Department of Computer Science at Stony Brook University](https://www.cs.stonybrook.edu/), where I'm advised by [Prof. Xiaojun Bi](https://www3.cs.stonybrook.edu/~xiaojun/) and [Prof. IV Ramakrishnan](https://www.cs.stonybrook.edu/people/faculty/ivramakrishnan). My research interests lie in the area of Human-AI interaction, data science and accessibility, with a primary focus on intelligent text entry techniques. I'm delicated to developing AI systems that enhance usability and promote inclusivity in digital environment. Currently, I am working on developing LLM-based typing systems on smartphones. 
 
-I earned my B.S. in computer science from [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/). Then I received my M.S. in computer science from [SUNY Korea](https://www.sunykorea.ac.kr/en/). Please refer to my [CV page](https://danzhang77.github.io/files/CV_base.pdf) for detailed information. 
+I earned my B.S. in computer science from [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/). Then I received my M.S. in computer science from Stony Brook University ([SUNY Korea campus](https://www.sunykorea.ac.kr/en/)). Please refer to my [CV page](https://danzhang77.github.io/files/CV_base.pdf) for detailed information. 
 
 <b>I am actively seeking full-time or internship opportunities in industry for Summer/Fall 2025</b>. Please feel free to contact me at: zhang64 AT cs DOT stonybrook DOT edu.
 
@@ -44,7 +44,7 @@ I earned my B.S. in computer science from [University of Electronic Science and 
     Hugging Face
 
 
-## Publications
+## Selected Publications and Presentations
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="images/teaser-touch.png" width="150" height="100" style="margin-right: 15px;">

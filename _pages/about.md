@@ -44,7 +44,7 @@ I earned my B.S. in computer science from [University of Electronic Science and 
     Hugging Face
 
 
-## Publications
+## Selected Publications and Presentations
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="images/teaser-touch.png" width="150" height="100" style="margin-right: 15px;">

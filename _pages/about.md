@@ -27,8 +27,8 @@ I earned my B.S. in computer science from [University of Electronic Science and 
     Java,
     Javascript,
     C#,
-    C
-    C++
+    C,
+    C++,
     SQL.
 * **Tools:**
     Visual Studio Code,

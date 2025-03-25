@@ -11,7 +11,7 @@ I am a PhD candidate in the [Department of Computer Science at Stony Brook Unive
 
 I earned my B.S. in computer science from [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/). Then I received my M.S. in computer science from Stony Brook University ([SUNY Korea campus](https://www.sunykorea.ac.kr/en/)). Please refer to my [CV page](https://danzhang77.github.io/files/CV_base.pdf) for detailed information. 
 
-<b>I am actively seeking full-time or internship opportunities in industry for Summer/Fall 2025</b>. Please feel free to contact me at: zhang64 AT cs DOT stonybrook DOT edu.
+<b>I am currently seeking full-time employment commencing in Spring 2026 and internship opportunities within the industry for the Summer/Fall of 2025.</b>. Please feel free to contact me at: zhang64 AT cs DOT stonybrook DOT edu.
 
 ## Skills
 

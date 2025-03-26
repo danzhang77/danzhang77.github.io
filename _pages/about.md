@@ -26,13 +26,16 @@ I earned my B.S. in computer science from [University of Electronic Science and 
     Python,
     Java,
     Javascript,
+    Swift,
     C#,
+    Objective-C,
     C,
     C++,
     SQL.
 * **Tools:**
     Visual Studio Code,
     Android Studio,
+    Xcode,
     Unity,
     Pycharm,
     Git,

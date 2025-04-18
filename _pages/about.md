@@ -44,7 +44,8 @@ I earned my B.S. in computer science from [University of Electronic Science and 
 * **Frameworks:**
     PyTorch,
     Keras,
-    Hugging Face
+    Hugging Face,
+    Angular.
 
 
 ## Selected Publications and Presentations

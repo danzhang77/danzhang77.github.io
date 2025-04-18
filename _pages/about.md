@@ -18,6 +18,7 @@ I earned my B.S. in computer science from [University of Electronic Science and 
 * **Domains:**
     Full Stack Software Development,
     Mobile Development,
+    UX Research,
     Machine Learning,
     Deep Learning,
     Large Language Model,

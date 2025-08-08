@@ -11,15 +11,16 @@ I am a PhD candidate in the [Department of Computer Science at Stony Brook Unive
 
 I earned my B.S. in computer science from [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/). Then I received my M.S. in computer science from Stony Brook University ([SUNY Korea campus](https://www.sunykorea.ac.kr/en/)). Please refer to my [CV page](https://danzhang77.github.io/files/CV_base.pdf) for detailed information. 
 
-<b>I am currently seeking full-time employment commencing in Spring 2026 and internship opportunities within the industry for the Summer/Fall of 2025.</b>. Please feel free to contact me at: zhang64 AT cs DOT stonybrook DOT edu.
+<b>I am currently seeking full-time employment commencing in Spring 2026 </b>. Please feel free to contact me at: zhang64 AT cs DOT stonybrook DOT edu.
 
 ## Skills
 
 * **Domains:**
-    Full Stack Software Development,
-    Mobile Development,
-    UX Research,
     Machine Learning,
+    Data Science,
+    Human-AI Interaction,
+    Accessibility,
+    UX Research,
     Deep Learning,
     Large Language Model,
     Visualization.
@@ -54,9 +55,9 @@ I earned my B.S. in computer science from [University of Electronic Science and 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="images/teaser-touch.png" width="150" height="100" style="margin-right: 15px;">
   <div>
-    <b>Intelligent Braille Keyboard on Smartphones.</b><br>
+    <b>Enabling Auto-Correction on Soft Braille Keboard</b><br>
     <b>Dan Zhang</b>, Yan Ma, Glenn Dausch, William H Seiple, Xianfeng Gu, IV Ramakrishnan, and Xiaojun Bi<br>
-    <a href="TBD">[TBD]</a> @ <i>In Submission</i>
+    <a href="TBD">[TBD]</a> @ <i>ACM UIST 2025</i>
   </div>
 </div>
 

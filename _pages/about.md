@@ -66,7 +66,7 @@ I earned my B.S. in computer science from [University of Electronic Science and 
   <div>
     <b>LLM Powered Text Entry Decoding and Flexible Typing on Smartphones.</b><br>
     Yan Ma, <b>Dan Zhang</b>, IV Ramakrishnan, and Xiaojun Bi<br>
-    <a href="TBD">[TBD]</a> @ <i>ACM CHI 2025</i>
+    <a href="https://dl.acm.org/doi/abs/10.1145/3706598.3714314">[Paper]</a> @ <i>ACM CHI 2025</i>
   </div>
 </div>
 

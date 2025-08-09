@@ -57,7 +57,7 @@ I earned my B.S. in computer science from [University of Electronic Science and 
   <div>
     <b>Enabling Auto-Correction on Soft Braille Keboard</b><br>
     <b>Dan Zhang</b>, Yan Ma, Glenn Dausch, William H Seiple, Xianfeng Gu, IV Ramakrishnan, and Xiaojun Bi<br>
-    <a href="TBD">[TBD]</a> @ <i>ACM UIST 2025</i>
+    <a href="TBD">[TBD]</a> @ <i>ACM UIST 2025 ((Acceptance Rate: 22%))</i>
   </div>
 </div>
 
@@ -66,7 +66,7 @@ I earned my B.S. in computer science from [University of Electronic Science and 
   <div>
     <b>LLM Powered Text Entry Decoding and Flexible Typing on Smartphones.</b><br>
     Yan Ma, <b>Dan Zhang</b>, IV Ramakrishnan, and Xiaojun Bi<br>
-    <a href="https://dl.acm.org/doi/abs/10.1145/3706598.3714314">[Paper]</a> @ <i>ACM CHI 2025</i>
+    <a href="https://dl.acm.org/doi/abs/10.1145/3706598.3714314">[Paper]</a> @ <i>ACM CHI 2025 (Acceptance Rate: 25.1%)</i>
   </div>
 </div>
 
@@ -75,7 +75,7 @@ I earned my B.S. in computer science from [University of Electronic Science and 
   <div>
     <b>Accessible Gesture Typing on Smartphones for People with Low Vision.</b><br>
     <b>Dan Zhang</b>, Zhi Li, Vikas Ashok, William H. Seiple, IV Ramakrishnan, and Xiaojun Bi<br>
-    <a href="https://dl.acm.org/doi/10.1145/3654777.3676447">[Paper]</a> @ <i>ACM UIST 2024</i>
+    <a href="https://dl.acm.org/doi/10.1145/3654777.3676447">[Paper]</a> @ <i>ACM UIST 2024 (Acceptance Rate: 22%)</i>
   </div>
 </div>
 
